@@ -6,13 +6,13 @@ karmieni są polscy początkujący dlatego powstaje własnie te repo którę ma 
 ## Zródła których należy unikać
 
 - [W3Schools](https://www.w3schools.com/)
-..* (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
-..* (http://tomskie-opinie.blog.pl/2013/03/03/w3schools-czyli-wielkie-oszustwo-i-biznes-na-certyfikatach/)
-..*(http://gal.steinitz.com/blog/2013/07/21/why-w3schools-is-bad-for-the-internet/)
+  * (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
+  * (http://tomskie-opinie.blog.pl/2013/03/03/w3schools-czyli-wielkie-oszustwo-i-biznes-na-certyfikatach/)
+  *(http://gal.steinitz.com/blog/2013/07/21/why-w3schools-is-bad-for-the-internet/)
 - [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent)
-..* (https://forum.pasja-informatyki.pl/122259/co-jest-nie-tak-z-najnowszym-odcinkiem-kursu-miroslawa-zelenta)
-..* (https://www.webkrytyk.pl/2015/02/28/wideokursy-1-kurs-js-i-css-miroslawa-zelenta/)
-..* (https://www.webkrytyk.pl/2015/12/31/wideokursy-2-kurs-php-miroslawa-zelenta/)
+  * (https://forum.pasja-informatyki.pl/122259/co-jest-nie-tak-z-najnowszym-odcinkiem-kursu-miroslawa-zelenta)
+  * (https://www.webkrytyk.pl/2015/02/28/wideokursy-1-kurs-js-i-css-miroslawa-zelenta/)
+  * (https://www.webkrytyk.pl/2015/12/31/wideokursy-2-kurs-php-miroslawa-zelenta/)
 
 
 ## Zródła godne polecenia
