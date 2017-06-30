@@ -1,9 +1,9 @@
-# Polscy WebDeveloperzy dla poczatkujacych
+# Polscy WebDeveloperzy dla początkujących.
 
-Polskie środowisko webdeveloperskie jest zaniepokojone Wartościami merytorycznymi jakimi
-karmieni są polscy początkujący dlatego powstaje własnie te repo którę ma pomóc odnaleźć lepsze zródła i porzucic stare.
+Polskie środowisko webdeveloperskie jest zaniepokojone problemem, z którym spotykaja się początkujący w tej dziedzinie.
+Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źródła, co rodzi licznie powtarzająće się błędy w przyszłości, co w efekcie wpływa na poziom webdevu w Polsce. Repozytorium wychodzi na przeciw tym, którzy od początku swojej "kariery" chcą kroczyć poprawną ścieżką i na starcie rozwijać w sobie dobre nawyki.
 
-## Zródła których należy unikać
+## Zródła których z przedstawionych niżej powodów należy unikać lub zwyczajnie brać na nie poprawkę:
 
 - [W3Schools](https://www.w3schools.com/)
   * (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
@@ -15,7 +15,7 @@ karmieni są polscy początkujący dlatego powstaje własnie te repo którę ma 
   * (https://www.webkrytyk.pl/2015/12/31/wideokursy-2-kurs-php-miroslawa-zelenta/)
 
 
-## Zródła godne polecenia
+## Zródła w pełni godne polecenia:
 
 ### HTML
 
