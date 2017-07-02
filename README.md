@@ -28,9 +28,9 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 ### JS
 
 - [MDN sekcja JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [exploringjs](http://exploringjs.com/)
-- [youdontknowjs](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
-- [wzorce projektowe](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Exploringjs](http://exploringjs.com/)
+- [YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
+- [Wzorce projektowe](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### CSS
 
