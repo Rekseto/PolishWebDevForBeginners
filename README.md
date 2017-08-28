@@ -1,7 +1,7 @@
 # Polscy WebDeveloperzy dla początkujących.
 
 Polskie środowisko webdeveloperskie jest zaniepokojone problemem, z którym spotykaja się początkujący w tej dziedzinie.
-Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źródła, co rodzi licznie powtarzająće się błędy w przyszłości, co w efekcie wpływa na poziom webdevu w Polsce. Repozytorium wychodzi na przeciw tym, którzy od początku swojej "kariery" chcą kroczyć poprawną ścieżką i na starcie rozwijać w sobie dobre nawyki.
+Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źródła, co rodzi licznie powtarzające się błędy w przyszłości, co w efekcie wpływa na poziom webdevu w Polsce. Repozytorium wychodzi na przeciw tym, którzy od początku swojej "kariery" chcą kroczyć poprawną ścieżką i na starcie rozwijać w sobie dobre nawyki.
 
 ## Zródła których z przedstawionych niżej powodów należy unikać lub zwyczajnie brać na nie poprawkę:
 
