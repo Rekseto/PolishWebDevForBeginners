@@ -32,6 +32,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 - [Wzorce projektowe](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
 ### CSS
 
 - [MDN sekcja CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
