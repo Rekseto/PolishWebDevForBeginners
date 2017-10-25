@@ -39,6 +39,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [CSS-Tricks](https://css-tricks.com/)
 
 ### Generalne
-- [blog Comandeera](https://www.comandeer.pl)](https://comandeer.github.io/blog/)
+- [blog Comandeera](https://comandeer.github.io/blog/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Internet bez barier](http://internet-bez-barier.com/)
+- [WebKrytyk](https://www.webkrytyk.pl/)
