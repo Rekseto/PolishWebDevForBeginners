@@ -9,6 +9,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
   * (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
   * (http://tomskie-opinie.blog.pl/2013/03/03/w3schools-czyli-wielkie-oszustwo-i-biznes-na-certyfikatach/)
   * (http://gal.steinitz.com/blog/2013/07/21/why-w3schools-is-bad-for-the-internet/)
+  * (https://www.webkrytyk.pl/2017/10/29/w3schools-com/)
 - [Kursy programowania z kanału Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent)
   * (https://forum.pasja-informatyki.pl/122259/co-jest-nie-tak-z-najnowszym-odcinkiem-kursu-miroslawa-zelenta)
   * (https://www.webkrytyk.pl/2015/02/28/wideokursy-1-kurs-js-i-css-miroslawa-zelenta/)
@@ -40,7 +41,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [CSS-Tricks](https://css-tricks.com/)
 
 ### Generalne
-- [blog Comandeera](https://comandeer.github.io/blog/)
+- [blog Comandeera](https://blog.comandeer.pl)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Internet bez barier](http://internet-bez-barier.com/)
 - [WebKrytyk](https://www.webkrytyk.pl/)
