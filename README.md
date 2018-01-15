@@ -45,3 +45,4 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Internet bez barier](http://internet-bez-barier.com/)
 - [WebKrytyk](https://www.webkrytyk.pl/)
+- [OWASP](https://www.owasp.org/index.php/Main_Page)
