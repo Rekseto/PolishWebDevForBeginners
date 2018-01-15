@@ -58,7 +58,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Internet bez barier](http://internet-bez-barier.com/)
 - [WebKrytyk](https://www.webkrytyk.pl/)
-- [CanIUse - Spis wsparcia dla poszczególnych przeglądarek](https://caniuse.com/)
+- [Caniuse (Spis wsparcia dla poszczególnych przeglądarek)](https://caniuse.com/)
 
 ### Inspiracje
 - [Awwwards](https://www.awwwards.com/)
@@ -66,4 +66,4 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 ### Dla bardziej ambitnych
 #### Sieci (materiały na przyszłość)
 - [Bezpieczeństwo sieci](https://www.youtube.com/watch?v=BZTWXl9QNK8)
-- [Mit- sieci komputerowe)](https://www.youtube.com/watch?v=QOtA76ga_fY)
+- [Mit (sieci komputerowe)](https://www.youtube.com/watch?v=QOtA76ga_fY)
