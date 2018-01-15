@@ -28,6 +28,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 ### JS
 
+- [Najważniejsza biblioteka JS - VanillaJS](http://vanilla-js.com/)
 - [MDN sekcja JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Exploringjs](http://exploringjs.com/)
 - [JavaScript.Info](https://javascript.info/)
@@ -40,9 +41,29 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [MDN sekcja CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS-Tricks](https://css-tricks.com/)
 
+### Bazy danych
+#### SQL
+- [Microsoft](https://docs.microsoft.com/en-us/sql/)
+
+#### NonSQL
+- [Dokumentacja MongoDB](https://docs.mongodb.com/)
+
+### Bezpieczeństwo
+- [PDO (PHP)](https://phpdelusions.net/pdo)
+- [OWASP](https://www.owasp.org/index.php/Main_Page)
+- [NodeJS (film Codetech)](https://www.youtube.com/watch?v=0dgmeTy7X3I)
+
 ### Generalne
 - [blog Comandeera](https://blog.comandeer.pl)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Internet bez barier](http://internet-bez-barier.com/)
 - [WebKrytyk](https://www.webkrytyk.pl/)
-- [OWASP](https://www.owasp.org/index.php/Main_Page)
+- [CanIUse - Spis wsparcia dla poszczególnych przeglądarek](https://caniuse.com/)
+
+### Inspiracje
+- [Awwwards](https://www.awwwards.com/)
+
+### Dla bardziej ambitnych
+#### Sieci (materiały na przyszłość)
+- [Bezpieczeństwo sieci](https://www.youtube.com/watch?v=BZTWXl9QNK8)
+- [Mit- sieci komputerowe)](https://www.youtube.com/watch?v=QOtA76ga_fY)
