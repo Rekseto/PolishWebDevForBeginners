@@ -18,6 +18,10 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 ## Zródła w pełni godne polecenia:
 
+### GIT
+__Git jest narzędziem do kontroli wersji. Dzięki niemu można łatwo cofnąć, dodać, czy edytować wprowadzone w kodzie zmiany__ 
+- [Oficjalna strona i dokumentacja](https://git-scm.com/)
+
 ### HTML
 
 - [MDN sekcja HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -40,6 +44,8 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 - [MDN sekcja CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS-Tricks](https://css-tricks.com/)
+- [BEM](http://getbem.com/)
+- [SASS](http://sass-lang.com/) LUB [LESS](http://lesscss.org/) - oraz ich [porównanie](https://css-tricks.com/sass-vs-less/)
 
 ### Bazy danych
 #### SQL
