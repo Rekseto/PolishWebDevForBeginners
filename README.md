@@ -66,7 +66,10 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [Awwwards](https://www.awwwards.com/)
 - [CollectUI](http://collectui.com/)
 
-### Dla bardziej ambitnych
-#### Sieci (materiały na przyszłość)
+### Dla bardziej ambitnych (materiały na przyszłość)
+#### Sieci
 - [Bezpieczeństwo sieci](https://www.youtube.com/watch?v=BZTWXl9QNK8)
 - [Mit (sieci komputerowe)](https://www.youtube.com/watch?v=QOtA76ga_fY)
+
+#### Bezpieczeństwo
+- [JOSE (Javascript Object Signing and Encryption) - kiedy NIE używać](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
