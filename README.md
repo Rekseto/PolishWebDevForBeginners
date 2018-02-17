@@ -45,7 +45,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 #### SQL
 - [Microsoft](https://docs.microsoft.com/en-us/sql/)
 
-#### NonSQL
+#### NoSQL (Not Only SQL)
 - [Dokumentacja MongoDB](https://docs.mongodb.com/)
 
 ### Bezpieczeństwo
