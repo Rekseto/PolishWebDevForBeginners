@@ -18,6 +18,10 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 ## Zródła w pełni godne polecenia:
 
+### GIT
+__Git jest narzędziem do kontroli wersji. Dzięki niemu można łatwo cofnąć, dodać, czy edytować wprowadzone w kodzie zmiany__ 
+- [Oficjalna strona i dokumentacja](https://git-scm.com/)
+
 ### HTML
 
 - [MDN sekcja HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -40,12 +44,14 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 - [MDN sekcja CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS-Tricks](https://css-tricks.com/)
+- [BEM](http://getbem.com/)
+- [SASS](http://sass-lang.com/) LUB [LESS](http://lesscss.org/) - oraz ich [porównanie](https://css-tricks.com/sass-vs-less/)
 
 ### Bazy danych
 #### SQL
 - [Microsoft](https://docs.microsoft.com/en-us/sql/)
 
-#### NonSQL
+#### NoSQL (Not Only SQL)
 - [Dokumentacja MongoDB](https://docs.mongodb.com/)
 
 ### Bezpieczeństwo
@@ -53,6 +59,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [OWASP](https://www.owasp.org/index.php/Main_Page)
 - [NodeJS (film Codetech)](https://www.youtube.com/watch?v=0dgmeTy7X3I)
 - [CVE details](https://www.cvedetails.com/)
+- [OAuth 2.0 - wprowadzenie](https://sekurak.pl/oauth-2-0-jak-dziala-jak-testowac-problemy-bezpieczenstwa/)
 
 ### Generalne
 - [blog Comandeera](https://blog.comandeer.pl)
@@ -65,7 +72,10 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 - [Awwwards](https://www.awwwards.com/)
 - [CollectUI](http://collectui.com/)
 
-### Dla bardziej ambitnych
-#### Sieci (materiały na przyszłość)
+### Dla bardziej ambitnych (materiały na przyszłość)
+#### Sieci
 - [Bezpieczeństwo sieci](https://www.youtube.com/watch?v=BZTWXl9QNK8)
 - [Mit (sieci komputerowe)](https://www.youtube.com/watch?v=QOtA76ga_fY)
+
+#### Bezpieczeństwo
+- [JOSE (Javascript Object Signing and Encryption) - kiedy NIE używać](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
