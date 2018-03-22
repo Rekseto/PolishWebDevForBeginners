@@ -40,6 +40,10 @@ __Git jest narzędziem do kontroli wersji. Dzięki niemu można łatwo cofnąć,
 - [Wzorce projektowe](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
+#### React
+- [Darmowy Kurs React po Polsku w postaci wpisów na blogu](https://typeofweb.com/kurs/react-js/)
+- [Inny Kurs React, również darmowy i po Polsku](http://szczecinski.eu)
+
 ### CSS
 
 - [MDN sekcja CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
