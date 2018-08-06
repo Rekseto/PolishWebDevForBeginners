@@ -79,6 +79,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [Internet bez barier](http://internet-bez-barier.com/)
 * [WebKrytyk](https://www.webkrytyk.pl/)
 * [Caniuse (Spis wsparcia dla poszczególnych przeglądarek)](https://caniuse.com/)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ### Inspiracje
 
