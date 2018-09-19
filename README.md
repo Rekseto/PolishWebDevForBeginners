@@ -80,6 +80,19 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [WebKrytyk](https://www.webkrytyk.pl/)
 * [Caniuse (Spis wsparcia dla poszczególnych przeglądarek)](https://caniuse.com/)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [WCAG 2.0 - zasady dostępności w sieci od W3C](https://www.w3.org/TR/WCAG20/)
+* [WCAG 2.1 - rozwinięcie WCAG 2.0](https://www.w3.org/TR/WCAG21/)
+
+### Narzędzia
+* [PageSpeed Insight - narzędzie od Google do optymalizowania działania stron](https://developers.google.com/speed/pagespeed/insights/?hl=pl)
+* [GTmetrix - PageSpeed z dodatkowymi narzędziami](https://gtmetrix.com/)
+* [HTML Validator - walidator HTML'a](https://validator.w3.org/)
+* [CSS Validator - walidator CSS'a](https://jigsaw.w3.org/css-validator/)
+* [WAVE - szuka błędów dostępności na stronie](https://wave.webaim.org/)
+* [IDI Web Accesibility Checker - podobnie jak wyżej, ale może sprawdzać również lokalne pliki](https://achecker.ca/checker/index.php)
+* [Color Contrast Checker - sprawdza czy kolor tekstu i tła zachowują odpowiednio wysoki kontrast](https://webaim.org/resources/contrastchecker/)
+* [Check My Colours - sprawdza kontrast na całej stronie](http://www.checkmycolours.com/)
+* [Rgba to hex - konwerter rgba do hex](https://tdekoning.github.io/rgba-converter/)
 
 ### Inspiracje
 
