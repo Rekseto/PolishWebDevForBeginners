@@ -63,9 +63,9 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 #### NoSQL (Not Only SQL)
 
 * [Dokumentacja MongoDB](https://docs.mongodb.com/)
+* [Dokumentacja Neo4j](https://neo4j.com/sandbox-v2/?ref=product) - może być dostępny jedynie po zalogowaniu
 
 ### Bezpieczeństwo
-
 * [PDO (PHP)](https://phpdelusions.net/pdo)
 * [OWASP](https://www.owasp.org/index.php/Main_Page)
 * [NodeJS (film Codetech)](https://www.youtube.com/watch?v=0dgmeTy7X3I)
