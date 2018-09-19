@@ -104,6 +104,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [Wojciech Glugla](https://github.com/Googiell)
 * [Piotr Aueternum](https://github.com/Piotr-Aueternum)
 * [Michał Miszczyszyn](https://github.com/mmiszy)
-* [Thomas Durda](https://github.com/Dzordzu)
+* [Tomasz Durda](https://github.com/Dzordzu)
 * [Tomasz Jakut](https://github.com/Comandeer)
 * [Kacper Duras](https://github.com/kacperduras)
