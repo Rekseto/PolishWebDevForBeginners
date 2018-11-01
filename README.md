@@ -38,17 +38,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [BEM](http://getbem.com/)
 * [SASS](http://sass-lang.com/) LUB [LESS](http://lesscss.org/) - oraz ich [porównanie](https://css-tricks.com/sass-vs-less/)
 
-### Bazy danych
-
-#### SQL
-
-* [Microsoft](https://docs.microsoft.com/en-us/sql/)
-
-#### NoSQL (Not Only SQL)
-
-* [Dokumentacja MongoDB](https://docs.mongodb.com/)
-* [Dokumentacja Neo4j](https://neo4j.com/sandbox-v2/?ref=product) - może być dostępny jedynie po zalogowaniu
-
 ### Bezpieczeństwo
 * [PDO (PHP)](https://phpdelusions.net/pdo)
 * [OWASP](https://www.owasp.org/index.php/Main_Page)
