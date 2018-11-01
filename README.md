@@ -1,13 +1,12 @@
 # Polscy WebDeveloperzy dla początkujących.
 
 Polskie środowisko webdeveloperskie jest zaniepokojone problemem, z którym spotykaja się początkujący w tej dziedzinie.
-Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źródła, co rodzi licznie powtarzające się błędy w przyszłości, co w efekcie wpływa na poziom webdevu w Polsce. Repozytorium wychodzi na przeciw tym, którzy od początku swojej "kariery" chcą kroczyć poprawną ścieżką i na starcie rozwijać w sobie dobre nawyki.
+Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źródła, co rodzi licznie powtarzające się błędy w przyszłości, co w efekcie wpływa na poziom webdevu w Polsce. Repozytorium wychodzi na przeciw tym, którzy od początku swojej "kariery" chcą kroczyć poprawną ścieżką i na starcie rozwijać w sobie dobre nawyki.
 
 ## Zródła których z przedstawionych niżej powodów należy unikać lub zwyczajnie brać na nie poprawkę:
 
 * [W3Schools](https://www.w3schools.com/)
   * (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
-  * (http://tomskie-opinie.blog.pl/2013/03/03/w3schools-czyli-wielkie-oszustwo-i-biznes-na-certyfikatach/)
   * (http://gal.steinitz.com/blog/2013/07/21/why-w3schools-is-bad-for-the-internet/)
   * (https://www.webkrytyk.pl/2017/10/29/w3schools-com/)
 * [Kursy programowania z kanału Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent)
@@ -41,11 +40,15 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [Wzorce projektowe](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg/featured)
+* [JavaScript 30](https://javascript30.com/)
+* [ES6 for Everyone](https://es6.io/)
+* [Lista przydatnych snippetów na różne okazje](https://codetogo.io/)
 
 #### React
 
 * [Darmowy Kurs React po Polsku w postaci wpisów na blogu](https://typeofweb.com/kurs/react-js/)
-* [Inny Kurs React, również darmowy i po Polsku](http://szczecinski.eu)
+* [Inny Kurs React, również darmowy i po Polsku](http://szczecinski.eu)
+* [React for Beginners](https://reactforbeginners.com/)
 
 ### CSS
 
@@ -53,6 +56,7 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [CSS-Tricks](https://css-tricks.com/)
 * [BEM](http://getbem.com/)
 * [SASS](http://sass-lang.com/) LUB [LESS](http://lesscss.org/) - oraz ich [porównanie](https://css-tricks.com/sass-vs-less/)
+* [Darmowy kurs CSS Grid](https://cssgrid.io/)
 
 ### Bazy danych
 
@@ -86,6 +90,8 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 ### Narzędzia
 * [PageSpeed Insight - narzędzie od Google do optymalizowania działania stron](https://developers.google.com/speed/pagespeed/insights/?hl=pl)
 * [GTmetrix - PageSpeed z dodatkowymi narzędziami](https://gtmetrix.com/)
+* [Test my site with Google - narzędzie od Google testujące szybkość strony na telefonach](https://testmysite.withgoogle.com/intl/pl-pl)
+* [Pingdom Tools - narzędzie pozwalające na test szybkości strony z różnych lokalizacji](https://tools.pingdom.com/)
 * [HTML Validator - walidator HTML'a](https://validator.w3.org/)
 * [CSS Validator - walidator CSS'a](https://jigsaw.w3.org/css-validator/)
 * [WAVE - szuka błędów dostępności na stronie](https://wave.webaim.org/)
@@ -98,6 +104,8 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 * [Awwwards](https://www.awwwards.com/)
 * [CollectUI](http://collectui.com/)
+* [One Page Love](https://onepagelove.com/)
+* [Creative Portfolios](http://www.creative-portfolios.com/)
 
 ### Dla bardziej ambitnych (materiały na przyszłość)
 
@@ -120,3 +128,4 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [Tomasz Durda](https://github.com/Dzordzu)
 * [Tomasz Jakut](https://github.com/Comandeer)
 * [Kacper Duras](https://github.com/kacperduras)
+* [Antoni Kępiński](https://github.com/xxczaki)
