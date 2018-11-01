@@ -16,9 +16,3 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
   * (https://www.webkrytyk.pl/2015/12/31/wideokursy-2-kurs-php-miroslawa-zelenta/)
 
 ## Zródła w pełni godne polecenia:
-
-### Dla bardziej ambitnych (materiały na przyszłość)
-
-#### Bezpieczeństwo
-
-* [JOSE (Javascript Object Signing and Encryption) - kiedy NIE używać](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
