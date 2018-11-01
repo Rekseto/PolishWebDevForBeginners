@@ -26,4 +26,4 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [Sieci](./web-structure.md)
 
 ## Twórcy
-Projekt jest tworzony wolontaryjnie i nieodpłatnie przez [genialnych webdeveloperów](./CONTRIBUTORS.md)
+Projekt jest tworzony wolontaryjnie i nieodpłatnie przez [genialnych webdeveloperów](./CONTRIBUTORS.md).
