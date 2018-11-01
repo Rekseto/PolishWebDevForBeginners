@@ -16,15 +16,15 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
   * (https://www.webkrytyk.pl/2015/12/31/wideokursy-2-kurs-php-miroslawa-zelenta/)
 
 ## Zródła w pełni godne polecenia:
-[Systemy kontroli wersji](./version-control.md)
-[HTML i CSS](./html-css.md)
-[Javascript](./js.md)
-[Generalnie](./general.md)
-[Bazy danych](./databases.md)
-[Inspiracje](./inspirations.md)
-[Bezpieczeństwo](./security.md)
-[Narzędzia](./tools.md)
-[Sieci](./web-structure.md)
+* [Systemy kontroli wersji](./version-control.md)
+* [HTML i CSS](./html-css.md)
+* [Javascript](./js.md)
+* [Generalnie](./general.md)
+* [Bazy danych](./databases.md)
+* [Inspiracje](./inspirations.md)
+* [Bezpieczeństwo](./security.md)
+* [Narzędzia](./tools.md)
+* [Sieci](./web-structure.md)
 
 ## Twórcy
 Projekt jest tworzony wolontaryjnie i nieodpłatnie przez [genialnych webdeveloperów](./CONTRIBUTORS.md)
