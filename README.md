@@ -17,11 +17,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 ## Zródła w pełni godne polecenia:
 
-### Inspiracje
-
-* [Awwwards](https://www.awwwards.com/)
-* [CollectUI](http://collectui.com/)
-
 ### Dla bardziej ambitnych (materiały na przyszłość)
 
 #### Sieci
