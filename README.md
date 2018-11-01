@@ -7,7 +7,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 * [W3Schools](https://www.w3schools.com/)
   * (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
-  * (http://tomskie-opinie.blog.pl/2013/03/03/w3schools-czyli-wielkie-oszustwo-i-biznes-na-certyfikatach/)
   * (http://gal.steinitz.com/blog/2013/07/21/why-w3schools-is-bad-for-the-internet/)
   * (https://www.webkrytyk.pl/2017/10/29/w3schools-com/)
 * [Kursy programowania z kanału Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent)
