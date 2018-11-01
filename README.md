@@ -31,22 +31,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 * [Semantyczny HTML](http://tutorials.comandeer.pl/html5-blog.html)
 * [Polski kanał kodu.je](https://www.youtube.com/playlist?list=PL5nf3UIj1JtUwEgjEPo9LurVKKX5bH1IP)
 
-### JS
-
-* [Najważniejsza biblioteka JS - VanillaJS](http://vanilla-js.com/)
-* [MDN sekcja JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Exploringjs](http://exploringjs.com/)
-* [JavaScript.Info](https://javascript.info/)
-* [YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
-* [Wzorce projektowe](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-* [overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg/featured)
-
-#### React
-
-* [Darmowy Kurs React po Polsku w postaci wpisów na blogu](https://typeofweb.com/kurs/react-js/)
-* [Inny Kurs React, również darmowy i po Polsku](http://szczecinski.eu)
-
 ### CSS
 
 * [MDN sekcja CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
