@@ -1,6 +1,8 @@
 # Narzędzia
 * [PageSpeed Insight - narzędzie od Google do optymalizowania działania stron](https://developers.google.com/speed/pagespeed/insights/?hl=pl)
 * [GTmetrix - PageSpeed z dodatkowymi narzędziami](https://gtmetrix.com/)
+* [Test my site with Google - narzędzie od Google testujące szybkość strony na telefonach](https://testmysite.withgoogle.com/intl/pl-pl)
+* [Pingdom Tools - narzędzie pozwalające na test szybkości strony z różnych lokalizacji](https://tools.pingdom.com/)
 * [HTML Validator - walidator HTML'a](https://validator.w3.org/)
 * [CSS Validator - walidator CSS'a](https://jigsaw.w3.org/css-validator/)
 * [WAVE - szuka błędów dostępności na stronie](https://wave.webaim.org/)
