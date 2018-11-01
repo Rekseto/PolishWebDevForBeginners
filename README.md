@@ -23,13 +23,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 * [Oficjalna strona i dokumentacja](https://git-scm.com/)
 
-### Bezpieczeństwo
-* [PDO (PHP)](https://phpdelusions.net/pdo)
-* [OWASP](https://www.owasp.org/index.php/Main_Page)
-* [NodeJS (film Codetech)](https://www.youtube.com/watch?v=0dgmeTy7X3I)
-* [CVE details](https://www.cvedetails.com/)
-* [OAuth 2.0 - wprowadzenie](https://sekurak.pl/oauth-2-0-jak-dziala-jak-testowac-problemy-bezpieczenstwa/)
-
 ### Narzędzia
 * [PageSpeed Insight - narzędzie od Google do optymalizowania działania stron](https://developers.google.com/speed/pagespeed/insights/?hl=pl)
 * [GTmetrix - PageSpeed z dodatkowymi narzędziami](https://gtmetrix.com/)
