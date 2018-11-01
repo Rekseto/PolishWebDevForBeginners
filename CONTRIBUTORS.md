@@ -7,3 +7,4 @@
 * [Tomasz Durda](https://github.com/Dzordzu)
 * [Tomasz Jakut](https://github.com/Comandeer)
 * [Kacper Duras](https://github.com/kacperduras)
+* [Antoni Kępiński](https://github.com/xxczaki)
