@@ -17,12 +17,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 ## Zródła w pełni godne polecenia:
 
-### GIT
-
-**Git jest narzędziem do kontroli wersji. Dzięki niemu można łatwo cofnąć, dodać, czy edytować wprowadzone w kodzie zmiany**
-
-* [Oficjalna strona i dokumentacja](https://git-scm.com/)
-
 ### Narzędzia
 * [PageSpeed Insight - narzędzie od Google do optymalizowania działania stron](https://developers.google.com/speed/pagespeed/insights/?hl=pl)
 * [GTmetrix - PageSpeed z dodatkowymi narzędziami](https://gtmetrix.com/)
