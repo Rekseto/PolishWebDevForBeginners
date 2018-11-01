@@ -110,13 +110,3 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 #### Bezpieczeństwo
 
 * [JOSE (Javascript Object Signing and Encryption) - kiedy NIE używać](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
-
-## Twórcy
-
-* [Grzegorz Dyl](https://github.com/Rekseto)
-* [Wojciech Glugla](https://github.com/Googiell)
-* [Piotr Aueternum](https://github.com/Piotr-Aueternum)
-* [Michał Miszczyszyn](https://github.com/mmiszy)
-* [Tomasz Durda](https://github.com/Dzordzu)
-* [Tomasz Jakut](https://github.com/Comandeer)
-* [Kacper Duras](https://github.com/kacperduras)
