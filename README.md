@@ -19,12 +19,6 @@ Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źród�
 
 ### Dla bardziej ambitnych (materiały na przyszłość)
 
-#### Sieci
-
-* [Bezpieczeństwo sieci](https://www.youtube.com/watch?v=BZTWXl9QNK8)
-* [Mit (sieci komputerowe)](https://www.youtube.com/watch?v=QOtA76ga_fY)
-* [Bsides Warsaw](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/videos)
-
 #### Bezpieczeństwo
 
 * [JOSE (Javascript Object Signing and Encryption) - kiedy NIE używać](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
