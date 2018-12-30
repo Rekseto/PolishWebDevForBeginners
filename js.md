@@ -11,6 +11,7 @@
 * [JavaScript 30](https://javascript30.com/)
 * [ES6 for Everyone](https://es6.io/)
 * [Lista przydatnych snippetów na różne okazje](https://codetogo.io/)
+* [JavaScript dla kotów](http://jsforcats.m4sk.in/)
 
 ## React
 <!-- @TODO Add description-->
