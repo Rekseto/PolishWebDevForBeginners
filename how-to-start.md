@@ -23,7 +23,7 @@ Teraz zobaczmy jak to wygląda w uproszczeniu od strony maszyny:
 3. Kierujemy się pod uzyskany adres. Tam ponownie wysyłamy nasze *zapytanie*. Dodatkowo (poza pełnym adresem strony) w *zapytaniu* mogą być inne informacje np. dotyczące imienia użytkownika.
 4. Serwer, który jest najczęściej *hostowany*, przetwarza nasze zapytanie i zwraca *klientowi*, czyli naszemu komputerowi (ale nie nam bezpośrednio), odpowiedź w postaci pliku tekstowego. Tłumacząc:
 Inny komputer (ten na który wskazuje "numerkowy adres"), który jest najczęściej wynajmowany przez osobę posiadjącą stronę, analizuje to co mu wysłaliśmy i tworzy plik tekstowy (zazwyczaj w postaci pliku HTML, ale nie zawsze!), a następnie nam go wysyła
-5. Nasza przeglądarka wykorzystuje swoją maszynę do renderingu (dla Firefoxa będzie to Gecko, a dla Google Chrome będzie to Chromium), a następnie, jeśli to konieczne, wysyłaja kolejne zapytania (HTML może zawierać informacje na temat dodatkowych plików potrzebnych do załadowania strony)
+5. Nasza przeglądarka wykorzystuje swoją maszynę do renderingu (dla Firefoxa będzie to Gecko, a dla Google Chrome będzie to Chromium), a następnie, jeśli to konieczne, wysyła kolejne zapytania (HTML może zawierać informacje na temat dodatkowych plików potrzebnych do załadowania strony)
 6. Wyświetlamy odpowiednią treść użytkownikowi
 
 Tak w skrócie to wygląda 
