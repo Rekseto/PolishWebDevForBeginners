@@ -1,12 +1,12 @@
-# Polscy WebDeveloperzy dla początkujących.
+# Polscy Web Developerzy dla początkujących.
 
-Polskie środowisko webdeveloperskie jest zaniepokojone problemem, z którym spotykaja się początkujący w tej dziedzinie.
-Chętni do rozpoczęnia nauki często sięgają po nie w pełni poprawne źródła, co rodzi licznie powtarzające się błędy w przyszłości, co w efekcie wpływa na poziom webdevu w Polsce. Repozytorium wychodzi na przeciw tym, którzy od początku swojej "kariery" chcą kroczyć poprawną ścieżką i na starcie rozwijać w sobie dobre nawyki.
+Polskie środowisko web developerskie jest zaniepokojone problemem, z którym spotykają się początkujący w tej dziedzinie.
+Chętni do rozpoczęcia nauki często sięgają po nie w pełni poprawne źródła, co rodzi licznie powtarzające się błędy w przyszłości, w efekcie wpływające na poziom web devu w Polsce. Repozytorium wychodzi na przeciw tym, którzy od początku swojej "kariery" chcą kroczyć poprawną ścieżką i na starcie rozwijać w sobie dobre nawyki.
 
 ## Jak zacząć?
-Dla osób zupełnie nowych w tematach webdeveloperki utworzyliśmy [krótki artykuł](./how-to-start.md) wprowadzający podstawowe terminy i systematyzujący bazowe informacje związane z tym tematem. 
+Dla osób zupełnie nowych w tematach webdeveloperki utworzyliśmy [krótki artykuł](./how-to-start.md) wprowadzający podstawowe terminy i systematyzujący bazowe informacje związane z tym zagadnieniem. 
 
-## Zródła których z przedstawionych niżej powodów należy unikać lub zwyczajnie brać na nie poprawkę:
+## Zródła, których z przedstawionych wyżej powodów należy unikać lub zwyczajnie brać na nie poprawkę:
 
 * [W3Schools](https://www.w3schools.com/)
   * (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
@@ -29,4 +29,4 @@ Dla osób zupełnie nowych w tematach webdeveloperki utworzyliśmy [krótki arty
 * [Sieci](./web-structure.md)
 
 ## Twórcy
-Projekt jest tworzony wolontaryjnie i nieodpłatnie przez [genialnych webdeveloperów](./CONTRIBUTORS.md).
+Projekt jest tworzony wolontaryjnie i nieodpłatnie przez [genialnych web developerów](./CONTRIBUTORS.md).
