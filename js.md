@@ -8,10 +8,11 @@ Do tej pory największym przełomem był ES6 powstały w 2015 roku. Tę wersję 
 
 ## Nieskategoryzowane
 * [Najważniejsza biblioteka JS - VanillaJS](http://vanilla-js.com/)
-* [MDN sekcja JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [MDN sekcja JS](https://developer.mozilla.org/pl/docs/Web/JavaScript)
 * [Exploringjs](http://exploringjs.com/)
 * [JavaScript.Info](https://javascript.info/)
 * [YouDontKnowJS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
+* [Mythbusters JS](https://mythbusters.js.org/)
 * [Wzorce projektowe](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg/featured)
@@ -22,6 +23,11 @@ Do tej pory największym przełomem był ES6 powstały w 2015 roku. Tę wersję 
 ## React
 <!-- @TODO Add description-->
 
+* [Dokumentacja](https://reactjs.org/docs/getting-started.html)
 * [Darmowy Kurs React po Polsku w postaci wpisów na blogu](https://typeofweb.com/kurs/react-js/)
 * [Inny Kurs React, również darmowy i po Polsku](http://szczecinski.eu)
 * [React for Beginners](https://reactforbeginners.com/)
+
+## Vue
+* [Dokumentacja](https://vuejs.org/v2/guide/)
+* [vue-router](https://router.vuejs.org/)
