@@ -8,3 +8,4 @@
 * [Tomasz Jakut](https://github.com/Comandeer)
 * [Kacper Duras](https://github.com/kacperduras)
 * [Antoni Kępiński](https://github.com/xxczaki)
+* [Kasper Seweryn](https://github.com/wvffle)
