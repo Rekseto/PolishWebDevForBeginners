@@ -27,7 +27,10 @@ Do tej pory największym przełomem był ES6 powstały w 2015 roku. Tę wersję 
 * [Darmowy Kurs React po Polsku w postaci wpisów na blogu](https://typeofweb.com/kurs/react-js/)
 * [Inny Kurs React, również darmowy i po Polsku](http://szczecinski.eu)
 * [React for Beginners](https://reactforbeginners.com/)
-
+## Budowanie Projektu (module bundlers)
+* [webpack](https://webpack.js.org/)
+* [parcel](https://parceljs.org/)
+* [rollup](https://rollupjs.org/guide/en)
 ## Vue
 * [Dokumentacja](https://vuejs.org/v2/guide/)
 * [vue-router](https://router.vuejs.org/)
