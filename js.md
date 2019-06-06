@@ -3,9 +3,6 @@
 Czym się różnią te dwa skróty? ES jest standardem, zaś JS jest jego implementacją (czyli wykonaniem).<br />
 Do tej pory największym przełomem był ES6 powstały w 2015 roku. Tę wersję powinien znać każdy web developer. Dla ciekawych [strona po angielsku opisująca szerzej ten temat](https://flaviocopes.com/ecmascript/)
 
-## ES5
-* [JavaScript dla kotów](http://jsforcats.m4sk.in/), czyli rzeczy elementarne, opisane w sposób bardzo przystępny. 
-
 ## Nieskategoryzowane
 * [Najważniejsza biblioteka JS - VanillaJS](http://vanilla-js.com/)
 * [MDN sekcja JS](https://developer.mozilla.org/pl/docs/Web/JavaScript)
