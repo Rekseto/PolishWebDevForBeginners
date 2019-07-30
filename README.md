@@ -27,6 +27,7 @@ Dla osób zupełnie nowych w tematach webdeveloperki utworzyliśmy [krótki arty
 * [Bezpieczeństwo](./security.md)
 * [Narzędzia](./tools.md)
 * [Sieci](./web-structure.md)
+* [Roadmap](./roadmap.md)
 
 ## Twórcy
 Projekt jest tworzony wolontaryjnie i nieodpłatnie przez [genialnych web developerów](./CONTRIBUTORS.md).
