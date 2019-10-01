@@ -34,6 +34,7 @@ Do tej pory największym przełomem był ES6 powstały w 2015 roku. Tę wersję 
 ## Vue
 * [Dokumentacja](https://vuejs.org/v2/guide/)
 * [vue-router](https://router.vuejs.org/)
-
+## Angular
+* [Dokumentacja](https://angular.io/docs)
 ## Inne
 * [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&fbclid=IwAR3-lP97INfmRzM9xLJWwwFIFw0QBszBhB0AtWaUtOvcK5O5e5YHgEbgbnI)
