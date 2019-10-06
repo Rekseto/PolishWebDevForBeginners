@@ -43,6 +43,12 @@ Vue, podobnie jak React jest biblioteką do tworzenia interfejsów użytkownika.
 * [vue-router](https://router.vuejs.org/) - Oficjalny router do Vue.
 * [Nuxt.js](https://nuxtjs.org/) - Framework do Vue, wzorowany na Next.js
 
+## Angular
+* [Dokumentacja](https://angular.io/docs)
+
+## Inne
+* [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&fbclid=IwAR3-lP97INfmRzM9xLJWwwFIFw0QBszBhB0AtWaUtOvcK5O5e5YHgEbgbnI)
+
 ## Budowanie Projektu (module bundlers)
 
 Gdy w naszym projekcie korzystamy z wielu rodzajów plików, bundler przekształca je, minifikuje i (w zależności od konfiguracji) rozdziela na mniejsze kawałki (chunki). Bundlery są często wykorzystywane np. przy tworzeniu aplikacji z użyciem Reacta i Vue.
