@@ -6,7 +6,7 @@ Chętni do rozpoczęcia nauki często sięgają po nie w pełni poprawne źród�
 ## Jak zacząć?
 Dla osób zupełnie nowych w tematach webdeveloperki utworzyliśmy [krótki artykuł](./how-to-start.md) wprowadzający podstawowe terminy i systematyzujący bazowe informacje związane z tym zagadnieniem. 
 
-## Zródła, których z przedstawionych wyżej powodów należy unikać lub zwyczajnie brać na nie poprawkę:
+## Zródła, których z przedstawionych wyżej powodów należy <span style="color: red">unikać</span> lub zwyczajnie brać na nie poprawkę:
 
 * [W3Schools](https://www.w3schools.com/)
   * (https://forum.pasja-informatyki.pl/34559/w3schools-nie-szerzmy-falszywej-propagandy)
@@ -27,6 +27,7 @@ Dla osób zupełnie nowych w tematach webdeveloperki utworzyliśmy [krótki arty
 * [Bezpieczeństwo](./security.md)
 * [Narzędzia](./tools.md)
 * [Sieci](./web-structure.md)
+* [Roadmap](./roadmap.md)
 
 ## Twórcy
 Projekt jest tworzony wolontaryjnie i nieodpłatnie przez [genialnych web developerów](./CONTRIBUTORS.md).
