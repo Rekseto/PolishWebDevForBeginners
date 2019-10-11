@@ -1,10 +1,17 @@
 # JavaScript
 
 ## ES vs JS
+
 Czym się różnią te dwa skróty? ES jest standardem, zaś JS jest jego implementacją (czyli wykonaniem).<br />
 Do tej pory największym przełomem był ES6 powstały w 2015 roku. Tę wersję powinien znać każdy web developer. Dla ciekawych [strona po angielsku opisująca szerzej ten temat](https://flaviocopes.com/ecmascript/)
 
+## TypeScript
+
+Jest to coraz bardziej popularny język, a właściwie superset JavaScript, czyli rozszerzenia dodające m. in. typowanie statyczne. Rozwiązanie posiada zestaw narzędzi w tym kompilator (transpiler) i dedykowane wtyczki do edytorów kodu. Projekt rozwjany jest przez Microsoft, a kod źródłowy dostępny jest w publicznym repozytorium.
+[Dokumentacja](https://www.typescriptlang.org/)
+
 ## Nieskategoryzowane
+
 * [Najważniejsza biblioteka JS - VanillaJS](http://vanilla-js.com/)
 * [MDN sekcja JS](https://developer.mozilla.org/pl/docs/Web/JavaScript)
 * [Exploringjs](http://exploringjs.com/)
@@ -41,12 +48,17 @@ Vue, podobnie jak React jest biblioteką do tworzenia interfejsów użytkownika.
 
 * [Dokumentacja](https://vuejs.org/v2/guide/)
 * [vue-router](https://router.vuejs.org/) - Oficjalny router do Vue.
+* [VueX](https://vuex.vuejs.org/) - Biblioteka do zarządzania stanem aplikacji, odpowiednik Reduxa.
 * [Nuxt.js](https://nuxtjs.org/) - Framework do Vue, wzorowany na Next.js
 
 ## Angular
+
 * [Dokumentacja](https://angular.io/docs)
+* [RxJS](https://rxjs.dev/) - Biblioteka do tworzenia aplikacji w oparciu asynchroniczność i programowanie reaktywne.
+* [NGRX](https://ngrx.io/) - Biblioteka do zarządzania stanem aplikacji, oparta na RxJS.
 
 ## Inne
+
 * [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&fbclid=IwAR3-lP97INfmRzM9xLJWwwFIFw0QBszBhB0AtWaUtOvcK5O5e5YHgEbgbnI)
 
 ## Budowanie Projektu (module bundlers)
