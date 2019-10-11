@@ -9,3 +9,4 @@
 * [Kacper Duras](https://github.com/kacperduras)
 * [Antoni Kępiński](https://github.com/xxczaki)
 * [Kasper Seweryn](https://github.com/wvffle)
+* [Jakub Biesiada](https://github.com/JB1905)
