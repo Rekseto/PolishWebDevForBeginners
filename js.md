@@ -48,14 +48,14 @@ Vue, podobnie jak React jest biblioteką do tworzenia interfejsów użytkownika.
 
 * [Dokumentacja](https://vuejs.org/v2/guide/)
 * [vue-router](https://router.vuejs.org/) - Oficjalny router do Vue.
-* [VueX](https://vuex.vuejs.org/) - Biblioteka do zarządzania stanem aplikacji, odpowiednik Reduxa.
+* [Vuex](https://vuex.vuejs.org/) - Biblioteka do zarządzania stanem aplikacji, odpowiednik Reduxa.
 * [Nuxt.js](https://nuxtjs.org/) - Framework do Vue, wzorowany na Next.js
 
 ## Angular
 
 * [Dokumentacja](https://angular.io/docs)
 * [RxJS](https://rxjs.dev/) - Biblioteka do tworzenia aplikacji w oparciu asynchroniczność i programowanie reaktywne.
-* [NGRX](https://ngrx.io/) - Biblioteka do zarządzania stanem aplikacji, oparta na RxJS.
+* [NgRx](https://ngrx.io/) - Biblioteka do zarządzania stanem aplikacji, oparta na RxJS.
 
 ## Inne
 

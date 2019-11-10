@@ -20,7 +20,7 @@ Dla osób zupełnie nowych w tematach webdeveloperki utworzyliśmy [krótki arty
 ## Zródła w pełni godne polecenia:
 * [Systemy kontroli wersji](./version-control.md)
 * [HTML i CSS](./html-css.md)
-* [Javascript](./js.md)
+* [JavaScript](./js.md)
 * [Generalnie](./general.md)
 * [Bazy danych](./databases.md)
 * [Inspiracje](./inspirations.md)
