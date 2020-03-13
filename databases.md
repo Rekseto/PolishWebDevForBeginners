@@ -3,6 +3,7 @@
 ## SQL
 
 * [Microsoft](https://docs.microsoft.com/en-us/sql/)
+* [Dokumentacja Typeorm](https://typeorm.io)
 
 ## NoSQL (Not Only SQL)
 
