@@ -1,7 +1,7 @@
 # Twórcy
 
 * [Grzegorz Dyl](https://github.com/Rekseto)
-* [Wojciech Glugla](https://github.com/Googiell)
+* [Wojciech Wilkowski](https://github.com/wwilkowski)
 * [Piotr Aueternum](https://github.com/Piotr-Aueternum)
 * [Michał Miszczyszyn](https://github.com/mmiszy)
 * [Tomasz Durda](https://github.com/Dzordzu)
