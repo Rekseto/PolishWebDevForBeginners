@@ -13,6 +13,7 @@
 * [MDN sekcja CSS](https://developer.mozilla.org/pl/docs/Web/CSS)
 * [CSS-Tricks](https://css-tricks.com/)
 * [BEM](http://getbem.com/)
+* [BEM](https://en.bem.info/) - bardziej szczegółowe podejście do tematu
 * [Stylus](http://stylus-lang.com/)
 * [SASS](http://sass-lang.com/) LUB [LESS](http://lesscss.org/) - oraz ich [porównanie](https://css-tricks.com/sass-vs-less/)
 * [Darmowy kurs CSS Grid](https://cssgrid.io/)
